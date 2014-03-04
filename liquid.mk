@@ -39,7 +39,7 @@ PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=liquid.d800.$(shell date +%m%d%y).$(
 # override
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_NUMBER=D80010d.1376460177 \
-    PRODUCT_NAME=d801 \
+    PRODUCT_NAME=d800 \
     TARGET_BUILD_TYPE=user \
     BUILD_VERSION_TAGS=release-keys \
     PRIVATE_BUILD_DESC="g2_att_us-user 4.2.2 JDQ39B D80010d.1376460177 release-keys" \
