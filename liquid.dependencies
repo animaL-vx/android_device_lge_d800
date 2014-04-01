@@ -7,9 +7,9 @@
  },
  {
    "remote": "gh",
-   "repository": "Ayysir/android_kernel_lge_msm8974",
+   "repository": "IllusionRom/android_kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
-   "revision": "kitkat"
+   "revision": "illusion-4.4"
  },
  {
    "remote": "ls",
